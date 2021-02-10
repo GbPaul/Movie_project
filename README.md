@@ -1,4 +1,14 @@
+
+
+
 # Getting Started with Create React App
+## A simple API movie Application made with React
+ This project is a simple responsive web application in a domain of movie
+ The application is developed with react to filter some specific movie component from an online movie database 
+ 
+ 
+To run the code you will need to sign up and get an API key on this link https://www.themoviedb.org/
+To get an API you can sign up with this link and clink on the API link with your own account.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
